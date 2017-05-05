@@ -34,5 +34,5 @@ dependencies {
     }
     apt 'com.jakewharton:butterknife-compiler:8.4.0'
     compile 'org.greenrobot:eventbus:3.0.0'
-    compile 'com.github.burakeregar:EasiestGenericRecyclerAdapter:-SNAPSHOT'
+    compile 'com.github.burakeregar:EasiestGenericRecyclerAdapter:v1.0'
 }
